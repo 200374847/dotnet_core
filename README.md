@@ -11,12 +11,12 @@ i have added new Models
 
 1. GroceryStoreModel
 2. Department
-3.Orderss
+3. Orderss
 
 i have added Controllers
 
 1. DepartmentsController
-2.OrderssesController
+2. OrderssesController
 
 i have also connected the database.
 
