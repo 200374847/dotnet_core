@@ -22,4 +22,4 @@ i have also connected the database.
 
  Azure link :
  
- Git Hub link :
+ Git Hub link :  https://github.com/200374847/dotnet_core
