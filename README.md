@@ -20,6 +20,6 @@ i have added Controllers
 
 i have also connected the database.
 
- Azure link :
+ Azure link :  https://apidotnet.azurewebsites.net
  
  Git Hub link :  https://github.com/200374847/dotnet_core
